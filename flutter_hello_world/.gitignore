@@ -41,19 +41,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Laravel
-/vendor/
-/node_modules/
-/public/storage
-/public/hot
-/storage/*.key
-/.env
-/.env.backup
-/.env.*
-Homestead.json
-Homestead.yaml
-composer.lock
-npm-debug.log
-yarn-error.log
-
